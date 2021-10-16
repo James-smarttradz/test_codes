@@ -1,0 +1,15 @@
+quotation_number,requested_delivery_week_window,destination_zipcode,supplier_name,supplier_zipcode,sku_volume_perunit,sku_volume_uom,sku_weight_perunit,sku_weight_uom,sku_order_quantity,course
+201912270000050,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,100,orders_to_consolidate
+201912270000051,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,100,orders_to_consolidate
+201912270000052,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,100,orders_to_consolidate
+201912270000053,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,100,orders_to_consolidate
+201912270000054,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,100,orders_to_consolidate
+201912270000055,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,100,orders_to_consolidate
+201912270000056,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,100,orders_to_consolidate
+201912270000057,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,100,orders_to_consolidate
+201912270000058,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,101,orders_to_consolidate
+201912270000059,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,102,orders_to_consolidate
+201912270000060,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,103,orders_to_consolidate
+201912270000061,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,104,orders_to_consolidate
+201912270000062,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,105,orders_to_consolidate
+201912270000063,19-04-2021 - 25-04-2021,80500,pfizer,68100,0.5,cm3,1,kg,106,orders_to_consolidate

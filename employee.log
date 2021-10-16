@@ -1,0 +1,6 @@
+INFO:test_employee_log:Created Employee: John Smith - John.Smith@email.com
+INFO:test_employee_log:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:test_employee_log:Created Employee: Jane Doe - Jane.Doe@email.com
+INFO:test_employee_log:Created Employee: John Smith - John.Smith@email.com
+INFO:test_employee_log:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:test_employee_log:Created Employee: Jane Doe - Jane.Doe@email.com

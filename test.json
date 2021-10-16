@@ -1,0 +1,18 @@
+{
+    "house" : [
+        {
+            "type" : "semi-D",
+            "size" : "big",
+            "occupants" : [
+                {
+                    "name" : "John",
+                    "age" : 10
+                },
+                {
+                    "name" : "James",
+                    "age" : 8
+                }
+            ]
+        }
+    ]
+}

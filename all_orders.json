@@ -1,0 +1,172 @@
+{
+  "orders_to_consolidate": [
+    {
+      "quotation_number": 201912270000050,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 100
+    },
+    {
+      "quotation_number": 201912270000051,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 100
+    },
+    {
+      "quotation_number": 201912270000052,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 100
+    },
+    {
+      "quotation_number": 201912270000053,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 100
+    },
+    {
+      "quotation_number": 201912270000054,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 100
+    },
+    {
+      "quotation_number": 201912270000055,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 100
+    },
+    {
+      "quotation_number": 201912270000056,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 100
+    },
+    {
+      "quotation_number": 201912270000057,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 100
+    },
+    {
+      "quotation_number": 201912270000058,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 101
+    },
+    {
+      "quotation_number": 201912270000059,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 102
+    },
+    {
+      "quotation_number": 201912270000060,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 103
+    },
+    {
+      "quotation_number": 201912270000061,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 104
+    },
+    {
+      "quotation_number": 201912270000062,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 105
+    },
+    {
+      "quotation_number": 201912270000063,
+      "requested_delivery_week_window": "19-04-2021 - 25-04-2021",
+      "destination_zipcode": 80500,
+      "supplier_name": "pfizer",
+      "supplier_zipcode": 68100,
+      "sku_volume_perunit": 0.5,
+      "sku_volume_uom": "cm3",
+      "sku_weight_perunit": 1,
+      "sku_weight_uom": "kg",
+      "sku_order_quantity": 106
+    }
+  ]
+}

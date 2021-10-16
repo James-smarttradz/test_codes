@@ -1,0 +1,63 @@
+{
+    "aggregated_demand": [
+        {
+            "product": "Kailan 300g",
+            "quantity": 10,
+            "uom": "MT"
+        },
+        {
+            "product": "Cucumber 500g",
+            "quantity": 13,
+            "uom": "MT"
+        },
+        {
+            "product": "Choysum 300g",
+            "quantity": 4,
+            "uom": "MT"
+        },
+        {
+            "product": "Kailan 300g",
+            "quantity": 20,
+            "uom": "MT"
+        },
+        {
+            "product": "Cucumber 500g",
+            "quantity": 3,
+            "uom": "MT"
+        },
+        {
+            "product": "Choysum 300g",
+            "quantity": 4,
+            "uom": "MT"
+        },
+        {
+            "product": "Kailan 300g",
+            "quantity": 10,
+            "uom": "MT"
+        },
+        {
+            "product": "Cucumber 500g",
+            "quantity": 23,
+            "uom": "MT"
+        },
+        {
+            "product": "Choysum 300g",
+            "quantity": 20,
+            "uom": "MT"
+        }
+    ],
+    "buyer_cluster": 1,
+    "supplier_cluster": 1,
+    "deliveryDate": {
+       "from": {
+          "year": 2021,
+          "month": 6,
+          "day": 24
+       },
+       "to": {
+          "year": 2021,
+          "month": 7,
+          "day": 2
+       }
+    }
+}

@@ -1,0 +1,272 @@
+[
+    {
+        "truckCompany": "Lestari",
+        "vehicleNumber": "WUR 9340",
+        "truckSize": 5,
+        "truckSize_uom": "MT",
+        "availabilityDate": "24-6-2021",
+        "rentalRate": 225,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Sin Kung",
+        "vehicleNumber": "BDU 3950",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "24-6-2021",
+        "rentalRate": 150,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "La la Move",
+        "vehicleNumber": "CBD 3950",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "24-6-2021",
+        "rentalRate": 155,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Lestari",
+        "vehicleNumber": "WUR 9340 A",
+        "truckSize": 5,
+        "truckSize_uom": "MT",
+        "availabilityDate": "24-6-2021",
+        "rentalRate": 225,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Sin Kung",
+        "vehicleNumber": "BDU 3950 A",
+        "truckSize": 10,
+        "truckSize_uom": "MT",
+        "availabilityDate": "25-6-2021",
+        "rentalRate": 936,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "La la Move",
+        "vehicleNumber": "CBD 3950 A",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "25-6-2021",
+        "rentalRate": 155,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Lestari",
+        "vehicleNumber": "WUR 9340 B",
+        "truckSize": 5,
+        "truckSize_uom": "MT",
+        "availabilityDate": "25-6-2021",
+        "rentalRate": 225,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Sin Kung",
+        "vehicleNumber": "BDU 3950 B",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "25-6-2021",
+        "rentalRate": 150,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "La la Move",
+        "vehicleNumber": "CBD 3950 B",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "26-6-2021",
+        "rentalRate": 155,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Lestari",
+        "vehicleNumber": "WUR 9341",
+        "truckSize": 10,
+        "truckSize_uom": "MT",
+        "availabilityDate": "26-6-2021",
+        "rentalRate": 935,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Sin Kung",
+        "vehicleNumber": "BDU 3951",
+        "truckSize": 5,
+        "truckSize_uom": "MT",
+        "availabilityDate": "26-6-2021",
+        "rentalRate": 230,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "La la Move",
+        "vehicleNumber": "CBD 3951",
+        "truckSize": 10,
+        "truckSize_uom": "MT",
+        "availabilityDate": "26-6-2021",
+        "rentalRate": 945,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Lestari",
+        "vehicleNumber": "WUR 9342",
+        "truckSize": 10,
+        "truckSize_uom": "MT",
+        "availabilityDate": "26-6-2021",
+        "rentalRate": 940,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Sin Kung",
+        "vehicleNumber": "BDU 3952",
+        "truckSize": 5,
+        "truckSize_uom": "MT",
+        "availabilityDate": "27-6-2021",
+        "rentalRate": 235,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "La la Move",
+        "vehicleNumber": "CBD 3952",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "27-6-2021",
+        "rentalRate": 157,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Lestari",
+        "vehicleNumber": "WUR 9343",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "27-6-2021",
+        "rentalRate": 150,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Sin Kung",
+        "vehicleNumber": "BDU 3953",
+        "truckSize": 5,
+        "truckSize_uom": "MT",
+        "availabilityDate": "28-6-2021",
+        "rentalRate": 240,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "La la Move",
+        "vehicleNumber": "CBD 3953",
+        "truckSize": 10,
+        "truckSize_uom": "MT",
+        "availabilityDate": "28-6-2021",
+        "rentalRate": 950,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Lestari",
+        "vehicleNumber": "WUR 9344",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "29-6-2021",
+        "rentalRate": 150,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Sin Kung",
+        "vehicleNumber": "BDU 3954",
+        "truckSize": 5,
+        "truckSize_uom": "MT",
+        "availabilityDate": "30-6-2021",
+        "rentalRate": 238,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "La la Move",
+        "vehicleNumber": "CBD 3954",
+        "truckSize": 10,
+        "truckSize_uom": "MT",
+        "availabilityDate": "30-6-2021",
+        "rentalRate": 940,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Lestari",
+        "vehicleNumber": "WUR 9345",
+        "truckSize": 10,
+        "truckSize_uom": "MT",
+        "availabilityDate": "01-7-2021",
+        "rentalRate": 940,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Sin Kung",
+        "vehicleNumber": "BDU 3955",
+        "truckSize": 5,
+        "truckSize_uom": "MT",
+        "availabilityDate": "01-7-2021",
+        "rentalRate": 235,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "La la Move",
+        "vehicleNumber": "CBD 3955",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "01-7-2021",
+        "rentalRate": 157,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Lestari",
+        "vehicleNumber": "WUR 9346",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "02-7-2021",
+        "rentalRate": 150,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Sin Kung",
+        "vehicleNumber": "BDU 3956",
+        "truckSize": 5,
+        "truckSize_uom": "MT",
+        "availabilityDate": "02-7-2021",
+        "rentalRate": 240,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "La la Move",
+        "vehicleNumber": "CBD 3956",
+        "truckSize": 10,
+        "truckSize_uom": "MT",
+        "availabilityDate": "02-7-2021",
+        "rentalRate": 950,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Lestari",
+        "vehicleNumber": "WUR 9347",
+        "truckSize": 3,
+        "truckSize_uom": "MT",
+        "availabilityDate": "03-7-2021",
+        "rentalRate": 150,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "Sin Kung",
+        "vehicleNumber": "BDU 3957",
+        "truckSize": 5,
+        "truckSize_uom": "MT",
+        "availabilityDate": "03-7-2021",
+        "rentalRate": 238,
+        "currency": "MYR"
+    },
+    {
+        "truckCompany": "La la Move",
+        "vehicleNumber": "CBD 3957",
+        "truckSize": 10,
+        "truckSize_uom": "MT",
+        "availabilityDate": "03-7-2021",
+        "rentalRate": 940,
+        "currency": "MYR"
+    }
+]
